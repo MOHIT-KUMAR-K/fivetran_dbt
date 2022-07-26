@@ -1,6 +1,6 @@
 jobs:
-- name: dailyrun
-  targetName: dev
+- name: daily_run
+ targetName: dev
   schedule: 0 12 * * *
   steps:
   - name: compile
