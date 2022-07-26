@@ -1,5 +1,3 @@
-dbtVersion: 0.19.0
-
 jobs:
 - name: daily_run
   targetName: dev
