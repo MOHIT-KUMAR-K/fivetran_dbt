@@ -19,3 +19,10 @@ models:
         tests:
           - unique
           - not_null
+  
+  - name: people_creation
+    description: "trying dbt"
+    columns: 
+      - name: id
+      - name: first
+      - name: last
