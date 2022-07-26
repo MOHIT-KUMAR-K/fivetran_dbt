@@ -1,5 +1,5 @@
 jobs:
-  - name: daily
+  name: daily
       schedule: 0 12 * * *
       steps: 
         - name: run models
