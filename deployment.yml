@@ -6,4 +6,3 @@ jobs:
           command: dbt run 
         - name: test models
           command: dbt test
-ß
