@@ -1,5 +1,5 @@
 jobs:
-- name: daily_run
+- name: dailyrun
   targetName: dev
   schedule: 0 12 * * *
   steps:
